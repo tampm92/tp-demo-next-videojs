@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 
-const Index = () => {
+const HomePage = () => {
   const a = '';
   return (
     <section className="px-8 md:px-10 mt-10 sm:mt-16 flex w-full container mx-auto pb-16">
@@ -39,4 +39,4 @@ const Index = () => {
   );
 };
 
-export default Index;
+export default HomePage;
